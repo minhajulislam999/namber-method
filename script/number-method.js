@@ -90,3 +90,13 @@ console.log(num1);
     let final = str + " taka was spent by all friends";
     console.log(final);
 }
+
+{
+    let basicSalary = 18000;
+    let bonus = 2000;
+    let total = basicSalary + bonus;
+    let str = total.toString();
+    let sms = str + " is my total monthly salary";
+
+    console.log(sms);
+}
