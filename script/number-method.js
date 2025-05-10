@@ -100,3 +100,14 @@ console.log(num1);
 
     console.log(sms);
 }
+
+{
+    let price = 350;
+    let product = 5;
+    let total = price * product;
+
+    let str = total.toString();
+    let sms = str + " taka total spent for buying 5 items";
+
+    console.log(sms);
+}
