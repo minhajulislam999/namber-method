@@ -39,3 +39,14 @@ console.log(num1);
 
     console.log(num);
 }
+
+
+{
+    let x = 200 * 3;
+
+    let str = x.toString();
+
+    let num = str + " is my monthly income";
+
+    console.log(num);
+}
