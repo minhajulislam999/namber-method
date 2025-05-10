@@ -61,3 +61,13 @@ console.log(num1);
 
     console.log(num);
 }
+
+{
+    let x = 99.99;
+
+    let a = x.toString();
+
+    let num = a + " is the price of the item";
+
+    console.log(num);
+}
