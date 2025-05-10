@@ -16,3 +16,13 @@ console.log(num1);
 
     console.log(totalString);
 }
+
+{
+    let money = 9999;
+
+    let convert = money.toString();
+
+    let num = convert + " taka ache amar kache";
+
+    console.log(num);
+}
