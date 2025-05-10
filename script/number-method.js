@@ -71,3 +71,12 @@ console.log(num1);
 
     console.log(num);
 }
+
+{
+    let x = (5000 - 750);
+    let a = x.toString();
+
+    let num = a + " is the remaining balance";
+
+    console.log(num);
+}
