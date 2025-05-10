@@ -80,3 +80,13 @@ console.log(num1);
 
     console.log(num);
 }
+
+{
+    let x = 1500;
+    let a = 2000;
+    let b = 1750;
+    let c = x + a + b;
+    let str = c.toString();
+    let final = str + " taka was spent by all friends";
+    console.log(final);
+}
