@@ -49,4 +49,15 @@ console.log(num1);
     let num = str + " is my monthly income";
 
     console.log(num);
+
+}
+
+{
+    let x = -250;
+
+    let str = x.toString();
+
+    let num = str + " is the amount I owe"
+
+    console.log(num);
 }
